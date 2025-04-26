@@ -19,12 +19,7 @@ An interactive Python tool to:
 - Matplotlib (for plotting)
 - Counter (for counting threats)
 
-🚀 Quick Setup
-```bash
-pip install spacy matplotlib
-python -m spacy download en_core_web_sm
-python cybersecurity_threat_tracker_interactive.py
-
+  
 🎯 Threats Tracked
 - Ransomware
 - Phishing
@@ -49,4 +44,11 @@ python cybersecurity_threat_tracker_interactive.py
 > This is a learning project, not for real-world cybersecurity deployment.
 
 ✨ Stay Safe. Stay Informed!
+
+🚀 Quick Setup
+```bash
+pip install spacy matplotlib
+python -m spacy download en_core_web_sm
+python cybersecurity_threat_tracker_interactive.py
+
 
